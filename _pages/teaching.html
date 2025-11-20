@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-    {{ post.type }}
-    {% if post.venue %}, {{ post.venue }}{% endif %}
-    {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
