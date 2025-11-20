@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% when 'teaching' %}
-  <p>
     {{ post.type }}
     {% if post.venue %}, {{ post.venue }}{% endif %}
     {% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
-  </p>
