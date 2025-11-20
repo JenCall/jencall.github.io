@@ -96,54 +96,78 @@
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Generative AIs",
+      "event": "How to embbeded Generative into your Workflows.",
+      "date": "2025-10-16",
+      "location": "Den Haag, Netherlands",
+      "description": "Delivered one and half hour workshop at The Hague Tech with Le Wagon."
+      "link": "https://www.thws.de/forschung/institute/cairothws/news/thema/cairo-x-deutsche-bank-hackathon/"
+    },
+     {
+      "name": "Q-Summit Hackathon 2025",
+      "event": "Hackathon",
+      "date": "2025-04-15",
+      "location": "Mannheim, Germany",
+      "description": "Represented Le Wagon + opening and closing speaker + Delivered a Machine Learning Seminar."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "CAIRO x DB Hackathon",
+      "event": "One Day Hackathon on Large Language Models",
+      "date": "2025-06-14",
+      "location": "Center for Artificial Intelligence (CAIRO), Würzburg, Germany",
+      "description": "A one-day event to team up and build a prototype for real-world problems provided by industry partners."
+      "link": "https://www.thws.de/forschung/institute/cairothws/news/thema/cairo-x-deutsche-bank-hackathon/"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Q-Summit Hackathon 2024",
+      "event": "Hackathon",
+      "date": "2024-04-01",
+      "location": "Mannheim, Germany",
+      "description": "Delivered two seminars."
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "We Are Developers",
+      "event": "Google Cloud Services Migration Experience",
+      "date": "2024-07-24",
+      "location": "Berlin",
+      "description": "Shared my experience using cloud services."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Le Wagon: Coding Bootcamp",
+      "institution": "Data Science, Analytics, and Growth Courses",
+      "date": "Since February 2023",
+      "role": "Lead Teacher, Batch Manager",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Macromedia University of Applied Sciences",
+      "institution": "Undergraduate Courses",
+      "date": "Since September 2024",
+      "role": "Lecturer",
+      "description": ""
+    },
+    {
+      "course": "University of Europe for Applied Sciences",
+      "institution": "Undergraduate Courses",
+      "date": "Since September 2024",
+      "role": "Lecturer",
       "description": ""
     }
   ],
-  "portfolio": [
+  "readings": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Blog posts",
       "category": "portfolio",
+      "date": "",
+      "url": "https://decodelearning.beehiiv.com/",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    },
+  "apps": [
+    {
+      "name": "App",
+      "category": "productivity",
       "date": "",
       "url": "",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
