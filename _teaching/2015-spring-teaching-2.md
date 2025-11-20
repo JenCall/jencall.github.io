@@ -1,20 +1,47 @@
 ---
-title: "Teaching experience 2"
+title: "Macromedia University of Applied Sciences"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecturer"
+permalink: /teaching/macromedia
+venue: "Germany"
+date: 2025-10-01
+location: "Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+# Teaching
 
-Heading 2
-======
+## WiSe 25/26
 
-Heading 3
-======
+- **Advanced Machine Learning – Lecture**  
+  Bachelor course, Macromedia University of Applied Sciences, WiSe 25/26  
+
+- **Basics of Machine Learning – Lecture**  
+  Bachelor course, Macromedia University of Applied Sciences, WiSe 25/26  
+
+- **Digital Technologies – Tutorial**  
+  Bachelor course, Macromedia University of Applied Sciences, WiSe 25/26  
+
+
+## SoSe 2025
+
+- **Artificial Intelligence – Lecture**  
+  Bachelor course, Macromedia University of Applied Sciences, SoSe 2025  
+
+- **Basics of Machine Learning – Lecture**  
+  Bachelor course, Macromedia University of Applied Sciences, SoSe 2025  
+
+- **Digital Technologies & Society – Tutorial**  
+  Bachelor course, Macromedia University of Applied Sciences, SoSe 2025  
+
+
+## WiSe 24/25
+
+- **Advanced Machine Learning – Tutorial**  
+  Bachelor course, Macromedia University of Applied Sciences, WiSe 24/25  
+
+- **Basics of Machine Learning – Tutorial**  
+  Bachelor course, Macromedia University of Applied Sciences, WiSe 24/25  
+
+- **Digital Technologies – Tutorial**  
+  Bachelor course, Macromedia University of Applied Sciences, WiSe 24/25  
