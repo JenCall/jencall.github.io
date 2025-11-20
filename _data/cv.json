@@ -155,7 +155,7 @@
       "description": ""
     }
   ],
-  "readings": [
+  "portfolio": [
     {
       "name": "Blog posts",
       "category": "portfolio",
@@ -163,6 +163,7 @@
       "url": "https://decodelearning.beehiiv.com/",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
+  ],
   "apps": [
     {
       "name": "App",
