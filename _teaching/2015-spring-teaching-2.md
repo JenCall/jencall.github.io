@@ -8,6 +8,8 @@ date: 2025-10-01
 location: "Germany"
 ---
 
+Since 2024, I’ve been working as a lecturer and tutorial instructor at Macromedia University.
+
 WiSe 25/26
 ======
 
