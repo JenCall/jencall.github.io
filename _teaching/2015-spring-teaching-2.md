@@ -3,6 +3,8 @@ title: "Macromedia University of Applied Sciences"
 collection: teaching
 type: "Lecturer"
 permalink: /teaching/macromedia
+venue: "Germany"
+date: 2025-10-01
 location: "Germany"
 ---
 
