@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Le Wagon: Coding Bootcamp"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Data Science, Analytics, and Growth Courses"
+permalink: /teaching/le-wagon
+venue: "Lead Teacher, Batch Manager"
+date: Since February 2023
+location: "France, Germany, Netherlands, Sao Paulo, Mauricius, Dubai"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I've been supporting Le Wagon Bootcamps as a Batch Manager and Lead Teachers where I teach Data Science, Analytics and Growth to amazing people, programmers and entrepreneurs, sharing my knowledge and passion for Data and Coding. 
 
-Heading 1
+Data Science
 ======
 
-Heading 2
+Data Analytics
 ======
 
-Heading 3
+Growth Marketing
 ======
