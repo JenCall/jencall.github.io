@@ -8,8 +8,8 @@ date: 2025-10-01
 location: "Germany"
 ---
 
-
-## WiSe 25/26
+WiSe 25/26
+====
 
 - **Programming with Python – Lecture**  
   Bachelor course, UE Applied Sciences, WiSe 25/26  
