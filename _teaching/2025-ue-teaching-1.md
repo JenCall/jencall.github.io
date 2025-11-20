@@ -15,21 +15,21 @@ WiSe 25/26
 ====
 
 - **Programming with Python – Lecture**  
-  Bachelor course, UE Applied Sciences, WiSe 25/26  
+  Bachelor course
 
 - **IT & Technology – Lecture**  
-  Foundation course, UE Applied Sciences, WiSe 25/26  
+  Foundation course  
 
 
 SoSe 2025
 ====
 
 - **IT & Technology – Lecture**  
-  Foundation course, UE Applied Sciences, SoSe 2025  
+  Foundation course
 
 
 WiSe 24/25
 ====
 
 - **IT & Technology – Lecture**  
-  Foundation course, UE Applied Sciences, WiSe 24/25  
+  Foundation course
