@@ -101,7 +101,6 @@
       "date": "2025-10-16",
       "location": "Den Haag, Netherlands",
       "description": "Delivered one and half hour workshop at The Hague Tech with Le Wagon."
-      "link": "https://www.thws.de/forschung/institute/cairothws/news/thema/cairo-x-deutsche-bank-hackathon/"
     },
      {
       "name": "Q-Summit Hackathon 2025",
@@ -163,7 +162,7 @@
       "date": "",
       "url": "https://decodelearning.beehiiv.com/",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    },
+    }
   "apps": [
     {
       "name": "App",
